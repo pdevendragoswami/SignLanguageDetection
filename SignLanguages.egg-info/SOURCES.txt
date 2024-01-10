@@ -1,0 +1,5 @@
+setup.py
+SignLanguages.egg-info/PKG-INFO
+SignLanguages.egg-info/SOURCES.txt
+SignLanguages.egg-info/dependency_links.txt
+SignLanguages.egg-info/top_level.txt
