@@ -3,6 +3,7 @@ from-root==1.0.2
 notebook==7.0.0a7
 flask-cors
 flask
+unzip
 
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
